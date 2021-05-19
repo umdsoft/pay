@@ -1,0 +1,3 @@
+```Текущий код - это код Merchant API платежной системы PayME в NodeJS. Чтобы использовать текущий код, вам нужно сделать правильные настройки внутри. Скоро произойдут и другие изменения ...```
+
+```Joriy kod NodeJS da PayME to'lov tizimining Merchant API kodi xisoblanadi. Joriy kodni ishlatish uchun siz ichidagi sozalamalarni to'g'ri qilishingiz talab qilinadi. Tez orada yana boshqa o'zgarishlar ham yuzaga keladi...```
